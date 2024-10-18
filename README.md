@@ -1,5 +1,7 @@
 # Complementary Visual Place Recognition Technique Selection
 
+Currently the code uploaded is research quality code. We are working on making it more accessible and readable when possible.
+
 ### 'Boosting Performance of a Baseline Visual Place Recognition Technique by Predicting the Maximally Complementary Technique' \[[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10161561)]  \[[arXiv](https://arxiv.org/abs/2210.07509)]
 
 ### Abstract
